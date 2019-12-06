@@ -1,0 +1,1 @@
+1. 如果想用kubectl run本地build的镜像，在build之前，windows请先执行 `& minikube docker-env | Invoke-Expression` linux请先执行 `eval $(minikube docker-env)` 资料：https://stackoverflow.com/questions/36874880/kubernetes-cannot-pull-local-image 请看这里面的前两个回答
