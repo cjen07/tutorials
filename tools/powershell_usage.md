@@ -1,0 +1,1 @@
+1. 删除一个目录 `Remove-Item -Force -Recurse -Path "$directoryPath\*"`
